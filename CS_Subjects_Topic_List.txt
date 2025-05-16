@@ -1,0 +1,70 @@
+Basics of Programming:
+- Variables and Data Types
+- Input/Output Operations
+- Operators (Arithmetic, Logical, Bitwise, etc.)
+- Control Flow (if, else, switch)
+- Loops (for, while, do-while)
+- Functions & Recursion
+- Arrays (1D, 2D, Multidimensional)
+- Strings and their Operations
+- Pointers
+- Dynamic Memory Allocation
+- Structures and Unions
+- File Handling
+- Error Types (Syntax, Runtime, Logical)
+- Best Practices
+
+Object-Oriented Programming (OOP):
+- Class and Object
+- Constructors and Destructors
+- `this` pointer
+- Encapsulation
+- Abstraction
+- Inheritance (Single, Multiple, Multilevel, Hybrid)
+- Polymorphism (Compile-time and Run-time)
+- Access Specifiers (public, private, protected)
+- Static Members
+- Friend Function and Friend Class
+- Operator Overloading
+- Templates (Function and Class Templates)
+- Exception Handling
+- Interfaces & Abstract Classes (Java, C#)
+
+Data Structures and Algorithms (DSA):
+- Time and Space Complexity (Big-O, Big-Theta, Big-Omega)
+- Arrays and Strings
+- Linked Lists (Singly, Doubly, Circular)
+- Stacks and Queues (Circular, Priority Queue)
+- Recursion and Backtracking
+- Trees (Binary Trees, BST, AVL, Heap, Segment Tree, Trie)
+- Graphs (Adjacency Matrix/List, BFS, DFS, Dijkstra, MST)
+- Searching and Sorting (Linear, Binary, Bubble, Merge, Quick, etc.)
+- Hashing (Hash Table, Collision Handling)
+- Dynamic Programming
+- Greedy Algorithms
+- Sliding Window & Two Pointer Techniques
+
+Database Management Systems (DBMS):
+- Database Concepts (Schemas, Instances)
+- DBMS vs File System
+- Architecture (1-tier, 2-tier, 3-tier)
+- ER Model (Entities, Relationships, Attributes)
+- Relational Model
+- Keys (Primary, Candidate, Foreign, Composite, Super)
+- Normalization (1NF, 2NF, 3NF, BCNF)
+- SQL (DDL, DML, DCL, TCL, Joins, Views, Indexes)
+- Transactions and ACID Properties
+- Concurrency Control (Locks, Deadlocks)
+- Recovery Techniques
+- NoSQL vs SQL
+- Stored Procedures and Triggers
+
+Operating Systems (OS):
+- Introduction and Functions of OS
+- Process vs Thread
+- Process States & PCB
+- Scheduling Algorithms (FCFS, SJF, RR, Priority)
+- Inter-Process Communication (IPC)
+- Synchronization (Critical Section, Semaphores, Mutex)
+- Deadlocks (Detection, Prevention, Avoidance - Banker's)
+
